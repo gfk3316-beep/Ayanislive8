@@ -14,7 +14,7 @@ import requests
 # ========================================================
 # 🔒 [DRX SECURITY & INTEGRITY SYSTEM]
 # ========================================================
-REAL_OWNER = "@DRX_POWER"
+REAL_OWNER = "@Ayan_gaming08"
 REMOTE_UPDATE_URL = "https://raw.githubusercontent.com/your-repo/master/bgmi" # अपना लिंक यहाँ बदलें
 
 def check_security():
