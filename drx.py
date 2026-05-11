@@ -15,7 +15,7 @@ import requests
 # 🔒 [DRX SECURITY & INTEGRITY SYSTEM]
 # ========================================================
 REAL_OWNER = "@Ayan_gaming08"
-REMOTE_UPDATE_URL = "https://raw.githubusercontent.com/your-repo/master/bgmi" # अपना लिंक यहाँ बदलें
+REMOTE_UPDATE_URL = "https://github.com/gfk3316-beep/Ayanislive8.git" # अपना लिंक यहाँ बदलें
 
 def check_security():
     with open(__file__, 'r') as f:
