@@ -55,10 +55,8 @@ verify_developer_file()
 # --- CONFIGURATION LOAD ---
 with open('config.json') as f:
     config = json.load(f)
-
-bot = telebot.TeleBot(config['8297315508:AAFUmMESNNRkXMyWFLuWBV6mhh7maNHzd7o'])
-admin_id = [str(config['7537581754'])]
-
+"bot_token": "8297315508:AAFUmMESNNRkXMyWFLuWBV6mhh7maNHzd7o"
+"admin_id": "7537581754"
 # Global States
 active_attacks = {} 
 user_cooldowns = {}
